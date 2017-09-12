@@ -2,18 +2,18 @@
 baseurl = "http://nodejh.com/"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
-title = "Blog Title"
-theme = "hugo-theme-cactus-plus"
+title = "My Example Hugo Website"
+theme = "cactus-plus"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "your_google_analytics_code"
 hasCJKLanguage = true
 
 [params]
-	name = "Hugo"
-	description = "Blog Description"
-	bio = "Blog biology"
+	name = "Henry"
+	description = "This is my website"
+	bio = "I love CS and coding."
 	# Enter optionally your twitter account
-	twitter = "your_twitter"
+	twitter = "billhung56"
 	enableRSS = false
 
 	# Disqus comment
