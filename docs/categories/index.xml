@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My Example Hugo Website</title>
-    <link>https//:billhung56.github.io/test-blog/categories/</link>
+    <link>https://billhung56.github.io/test-blog/categories/</link>
     <description>Recent content in Categories on My Example Hugo Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https//:billhung56.github.io/test-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://billhung56.github.io/test-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

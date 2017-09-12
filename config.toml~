@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https//:billhung56.github.io/test-blog"
+baseurl = "https//:billhung56.github.io/test-blog/"
 publishDir = "docs"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en"
